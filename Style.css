@@ -1,0 +1,32 @@
+body{
+    background-color: #d4eef9;
+}
+.card{
+    height: fit-content;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    box-shadow: 5px 4px 4px 0;
+    width:25% ;
+    margin: 20px;
+}
+img{
+    border-radius:10px;
+}
+.content{
+    margin: 20px;
+  
+    text-align:left;
+}   
+.Links{
+    text-decoration: none;
+    display: flex;
+    justify-content: space-evenly;    
+}
+.container{
+    display: flex;
+    justify-content: space-evenly; 
+}
+h3{
+    display: flex;
+    justify-content: space-evenly;
+}
